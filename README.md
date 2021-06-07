@@ -7,7 +7,6 @@
 |**Generation Platform**<br>Visual Studio Code|
 |**Floorplan Used**<br>simple|
 |**Service Type**<br>OData Url|
-|**Service URL**<br>http://saps4hsrv.westeurope.cloudapp.azure.com:8003/sap/opu/odata/sap/ZCL_CONFIG_C_CDS/
 |**Module Name**<br>listcomponent1|
 |**Application Title**<br>Demo List Component 1|
 |**Namespace**<br>be.wl|
